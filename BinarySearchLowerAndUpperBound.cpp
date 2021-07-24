@@ -72,7 +72,4 @@ int main() {
     vector<int> ans = solve.searchRange(A, target);
 
     cout << ans[0] << " : " << ans[1] << endl;
-
-    // solve.searchRange()
-
 }
